@@ -1,7 +1,7 @@
 # leetcode
 solutions to programming challenges from https://leetcode.com.
 
-# [notes](https://docs.google.com/spreadsheets/d/1O5GRe4mfpYKGuuEx3lxwo7E3DxqTh8elcc9Vn39LB1c/edit?usp=sharing) should i delete the dates?
+# [notes](https://docs.google.com/spreadsheets/d/1O5GRe4mfpYKGuuEx3lxwo7E3DxqTh8elcc9Vn39LB1c/edit?usp=sharing)
 
 # particularly interesting problems:
 * [daily temperatures](stack/739_daily-temperatures.java)
